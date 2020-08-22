@@ -1,0 +1,23 @@
+{
+    "id": 1,
+    "price": 40000,
+    "brands_id": 1,
+    "categories_id1": 1,
+    "short_description": "Nintendo Switch",
+    "long_description": "Muy buena consola",
+    "image": "2-NintendoSwitch.jpeg",
+    "created_at": "2020-08-01T14:02:15.000Z",
+    "updated_at": null,
+    "brand": {
+    "id": 1,
+    "name": "Nintendo",
+    "created_at": "2020-07-19T00:37:23.000Z",
+    "updated_at": null
+    },
+    "category": {
+    "id": 1,
+    "name": "Consolas",
+    "created_at": "2020-07-19T00:38:07.000Z",
+    "updated_at": null
+    }
+    }
